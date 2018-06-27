@@ -24,7 +24,7 @@
 
 package org.diorite.serialization.setting;
 
-import org.diorite.commons.reflections.type.TypeToken;
+import org.diorite.commons.reflect.type.TypeToken;
 
 import javax.annotation.Nullable;
 import java.lang.reflect.AnnotatedType;
